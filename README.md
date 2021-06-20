@@ -1,2 +1,5 @@
-# hello-world
-Hello world new project template.
+用ts import的形式重写抄写了一遍 puremvc 只为在项目中可以直接引入源码
+
+大家可以直接拿来用,这个是基于多核写的.和 单核用起来点差距,需要注意
+
+有什么问题,  可以联系 本人  qq:245110673
